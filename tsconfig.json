@@ -1,11 +1,11 @@
 {
     "files": [],
     "references": [
-    	{ "path": "./lib" }
-    	{ "path": "./AggroMiner" }
-        { "path": "./ArtilleryMicro" }
-        { "path": "./MissileKite" }
-        { "path": "./SmartMelee" }
+    	{ "path": "./lib" },
+    	{ "path": "./AggroMiner" },
+        { "path": "./ArtilleryMicro" },
+        { "path": "./MissileKite" },
+        { "path": "./SmartMelee" },
         { "path": "./ZapKite" }
     ]
 }
